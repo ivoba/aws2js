@@ -1,3 +1,5 @@
+#Legacy support fork
+
 ## About
 
 Amazon Web Services node.js module. Originally a fork of [aws-lib](https://github.com/livelycode/aws-lib/).
